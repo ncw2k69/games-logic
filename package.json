@@ -1,7 +1,7 @@
 {
-  "name": "fe-interview",
+  "name": "games-logic",
   "version": "1.0.0",
-  "description": "Deloitte Digital - Frontend Interview",
+  "description": "Games Logic",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/deloitte-digital-ro/fe-interview.git"
+    "url": ""
   },
-  "author": "Dumitru Andrei",
+  "author": "ncw",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/deloitte-digital-ro/fe-interview/issues"
+    "url": ""
   },
-  "homepage": "https://gitlab.com/deloitte-digital-ro/fe-interview#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.8.0",
     "@babel/preset-env": "^7.8.0",
