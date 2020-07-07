@@ -1,6 +1,6 @@
 {
     "name": "games-logic",
-    "title": "Game Title",
+    "title": "Tic-Tac-Toe",
     "version": "1.0.0",
     "description": "Games Logic",
     "main": "index.js",
